@@ -6,7 +6,7 @@ package com.mycompany.app;
 public class App
 {
 
-    private final String message = "Hello World! my github modification done for automatic build test";
+    private final String message = "Hello World! my github modification for automatic build";
 
     public App() {}
 
